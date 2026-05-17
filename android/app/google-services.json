@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525682698625",
+    "project_id": "codex-e3e06",
+    "storage_bucket": "codex-e3e06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525682698625:android:d0da7f26e7b1997158a080",
+        "android_client_info": {
+          "package_name": "com.example.story_sharing_platform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbK8e5rjxL6a8O4Ntx9wFix6tFxILW6zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
