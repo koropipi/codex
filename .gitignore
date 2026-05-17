@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Miscellaneous
 *.class
 <<<<<<< HEAD
@@ -78,14 +79,11 @@ analysis_benchmark.json
 
 # Flutter/Dart/Pub related
 **/doc/api/
+=======
+>>>>>>> d490e32ad7ba27de2955a605ccd1732c00b5536e
 .dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
-**/generated_plugin_registrant.dart
-.packages
-.pub-preload-cache/
-.pub/
 build/
+<<<<<<< HEAD
 flutter_*.png
 linked_*.ds
 unlinked.ds
@@ -163,3 +161,8 @@ app.*.symbols
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
 >>>>>>> c7146b61b638d5f9075940c6df1b4c12caf4b067
+=======
+.packages
+pubspec.lock
+.env
+>>>>>>> d490e32ad7ba27de2955a605ccd1732c00b5536e
